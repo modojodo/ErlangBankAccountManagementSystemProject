@@ -1,0 +1,1 @@
+-record(account,{ cnic, name, address,date ,time, balance=0}).
